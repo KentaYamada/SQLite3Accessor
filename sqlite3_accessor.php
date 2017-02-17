@@ -21,7 +21,6 @@ class SQLite3Accessor extends SQLite3
         parent::enableExceptions(TRUE);
     }
 
-
     //
     // 複数のSQL(Create, Insert, Update, Delete)を順番に実行
     // @params
