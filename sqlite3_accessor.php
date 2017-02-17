@@ -1,6 +1,6 @@
 <?php
 //
-// sqlite3_ccessor.php
+// sqlite3_accessor.php
 // Created by Yamada Kenta
 // Copyright (c) 2017 yamaken. All right reserved.
 //
