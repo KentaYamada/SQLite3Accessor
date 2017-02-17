@@ -22,7 +22,7 @@ class SQLite3Accessor extends SQLite3
     }
 
     //
-    // 複数のSQL(Create, Insert, Update, Delete)を順番に実行
+    // 複数のSQL(Create, Insert, Update, Deleteが対象)を順番に実行
     // @params
     //  $queries Array of String: 複数のSQL文
     // @return Boolean
